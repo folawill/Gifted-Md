@@ -72,7 +72,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID , make sure it starts with Gifted;;; or GIFTED;;; or SESSION_",   
-      "value":"",
+      "value":"Gifted;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiS0QwbEtQSlB1VlcrNER6Y1Vtekpqb05TRENkRitpYkl0UFZrYmkrQm9HZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoid2l3bkROMytFTEFFSTdRbm40d3kzT2ZDMkpwcUs0TDUvVXVabXAzbEZYcz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJFTFl2UjdRSFlzck54TW9SWlJ3NFA1blBGN3gyZDJvVzFVN1dPLytDcG44PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI3YnRUOHNxajJRUm91blYxN3EzL0xLL2xSL3ZoaWJyenFxYjRabFdNZG00PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InFOMy9SZGx3aENXNXl2M0RCc1dTanJSWXpuV1pTV2NQNzdQRVRScmZrMEk9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImQrV2dyYzNWSTcyaWJkR0hUN0puZ1lsUWRyUEVpN2hVUlF2cENhcG5IeGc9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidUhSMzczY0krcFlaRjhQRzM2V2NPZG5WdVRrZlIreGJxN3lUQWpkazdWQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibEs4dXZlelBrZC9WSDhyV3R5UklObFYrM1RkNGVocnN3WUpGZGhkdEpFYz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkdUV3E3czlXNjZpL2tuQVE5akorOWQ4ODZ6dUlMZWhDQXdRdFl0UFRleHhSdXhKRkt1QXo3M21JN09vVGx5d1pGcjdzMExZa1lPOVVLQjFuYzVsc0RBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTcwLCJhZHZTZWNyZXRLZXkiOiJWV3RhRDhRR1J2aG05WEplZDZiRFRlQi9aSitHd2psSUJLZkpYT3N5TEVZPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJDMnlrRHdONVRSeW9qbHZiX3NUTnZRIiwicGhvbmVJZCI6Ijc5Yzg4NmU0LWRkMzEtNGQxOC1hZjgxLWFkMjI3ZmMxOGM5OCIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI4YmNBMzNtbU9hY0ZMUktiQ3VYb0tEb2pUQXM9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZUp6RUlGdWVnQjFVRUFsZ3FwdkNIMzhkRExBPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IlhSWlJDWlA5IiwibWUiOnsiaWQiOiIyMzQ3MDgxNDE0Mjk0OjIzQHMud2hhdHNhcHAubmV0In0sImFjY291bnQiOnsiZGV0YWlscyI6IkNNYnk3S0lGRVBXWjJMSUdHQU1nQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJOeWN2bWlqUnRWRVlRZFNacTBQTzFzRzBYMHI5Nk5WcFEzN0N6YlNEWWl3PSIsImFjY291bnRTaWduYXR1cmUiOiJFL3ZSek1IRmxMUDhmQWRBR1dTQmhpUU94cmlrSVEzaE9meHIySi9ZT1BJUTlBL2NBQVViZ0VhdFlNdDB4UTZ4T2NUdjdpYU9BK0ZZWkxwc1FPSnpDZz09IiwiZGV2aWNlU2lnbmF0dXJlIjoiS2RDZlRzMVJabFRKVzBIYXJBVTNUV1BsQVEvM1FEbFBmcmQ4UFJlRmMwZ2tLTnpRVmxjalFBK1h1V0s0dkJVczBvRTVubGpKK2t5SFdmSUNlWmNOQUE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyMzQ3MDgxNDE0Mjk0OjIzQHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlRjbkw1b28wYlZSR0VIVW1hdER6dGJCdEY5Sy9lalZhVU4rd3MyMGcySXMifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MTY5MTU0NTl9",
       "required": true
 
     },
@@ -88,13 +88,13 @@
 
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254728782591,254762016957"
+    "value": "2347081414294"
   },
     "WARN_COUNT":
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "5"
+    "value": "3"
   },
     "CHAT_BOT":
     {
@@ -111,7 +111,7 @@
   "PRESENCE":{
     "description":"Put online to indicate that you are ever online even if you are not. Put typing to indicate that you are currently typing a message. Put recording to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
     "value":"online",
-    "required": false
+    "required": true
   }  
   },
 
